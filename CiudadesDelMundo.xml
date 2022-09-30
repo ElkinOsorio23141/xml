@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding = "UTF-8" standalone="no" ?>
+
+<ciudadesDelMundo>
+    <ciudad>
+        <nombre>Nueva Delhi</nombre>
+        <pais continente=""></pais>
+    </ciudad>
+    <ciudad>
+        <nombre></nombre>
+        <pais continente=""></pais>
+    </ciudad>
+    <ciudad>
+        <nombre></nombre>
+        <pais continente=""></pais>
+    </ciudad>
+
+</ciudadesDelMundo>
