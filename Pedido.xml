@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding = "UTF-8" standalone="no" ?>
+<!DOCTYPE pedido SYSTEM "reglaspedido.dtd">
+<pedido fecha="2022-10-30" referencia='A-19'>
+    <producto codigo="G25">
+        <nombre>Teclado</nombre>
+        <cantidad>12</cantidad>
+        <comentario>Teclados marca
+            <marcar>lenovo</marcar>
+        </comentario>
+    </producto>
+    <producto codigo="T15">
+        <nombre>monitor</nombre>
+        <cantidad>20</cantidad>
+        <comentario>
+            <![CDATA[>
+            if (x &lt; 3)]]>
+            Monitores de 12
+        </comentario>
+    </producto>
+</pedido>
