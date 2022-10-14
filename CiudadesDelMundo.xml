@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding = "UTF-8" standalone="no" ?>
-
+<!DOCTYPE ciudadesDelMundo SYSTEM "https://github.com/ElkinOsorio23141/xml/blob/master/CiudadesDelMundo.dtd">
 <ciudadesDelMundo>
     <ciudad>
         <nombre>Nueva Delhi</nombre>
-        <pais continente=""></pais>
+        <pais continente="">India</pais>
     </ciudad>
     <ciudad>
-        <nombre>cairos</nombre>
-        <pais continente=""></pais>
+        <nombre>Lisboa</nombre>
+        <pais continente="">Portugal</pais>
     </ciudad>
     <ciudad>
-        <nombre></nombre>
-        <pais continente=""></pais>
+        <nombre>El Cairo</nombre>
+        <pais continente="">Egipto</pais>
     </ciudad>
 
 </ciudadesDelMundo>
